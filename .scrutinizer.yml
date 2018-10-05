@@ -2,7 +2,7 @@ tools:
   php_code_sniffer:
     config:
       standard: WordPress
-  sensiolabs_security_checker: true
+  sensiolabs_security_checker:
   external_code_coverage:
     timeout: 2500
 checks:
